@@ -12,19 +12,22 @@ Welcome to our Interactive Quiz Website — an engaging platform designed to cha
 
 <h2>How to Use</h2>
 
-Answer Questions:
+<h3>Answer Questions:</h3>
 
 Navigate through the quiz, answering questions to the best of your knowledge.
-Get Feedback:
+
+<h3>Get Feedback:</h3>
 
 Receive immediate feedback on each question to learn and improve.
-Track Your Scores:
+
+<h3>Track Your Scores:</h3>
 
 Monitor your cumulative score and aim for the top spot on the leaderboard.
-Compete with Friends:
+
+<h3>Compete with Friends:</h3>
 
 Share your scores with friends and challenge them to beat your high score.
-Technologies Used
-Frontend:
+
+<h2>Technologies Used Frontend:</h2>
 
 HTML5, CSS3, JavaScript
